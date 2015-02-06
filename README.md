@@ -16,3 +16,7 @@ Determine the relationship of PER (Player Efficiency Rating) to Salary via a vis
 
 
 NBA 2014 Players Dataset: [http://bit.ly/gtnbads](http://bit.ly/gtnbads)
+
+**Solution:**
+
+You can find the solution in this branch or as a gist: [NBA Analysis Solution](https://gist.github.com/bbengfort/226a108285cdb6cbf5fe).
