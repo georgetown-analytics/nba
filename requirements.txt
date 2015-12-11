@@ -1,0 +1,20 @@
+# requirements.txt
+
+
+# For ingestion, wrangling and computation
+os
+csv
+json
+urllib2
+collections.Counter
+operator.itemgetter
+
+
+# For the visualization part
+pandas==0.16.2
+numpy==1.9.2
+matplotlib==1.4.3
+
+
+# If you want to do the lab in iPython
+ipython==3.0.0
