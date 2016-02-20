@@ -1,6 +1,6 @@
 # Data Loading Python Workshop
 
-## Data Sources Students:   
+## Software Engineering Students:   
 
   $ git clone https://github.com/georgetown-analytics/nba.git    
   $ cd nba    
