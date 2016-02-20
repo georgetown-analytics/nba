@@ -1,6 +1,14 @@
 # Data Loading Python Workshop
 
-Given a dataset of NBA players performance and salary in 2014, use Python to load the dataset and compute the summary statistics for the `SALARY` field:
+## Data Sources Students:   
+
+  $ git clone https://github.com/georgetown-analytics/nba.git
+  $ cd nba
+  $ jupyter notebook
+
+In Jupyter, open the file called "NBA Player Statistics Workshop.ipynb"
+
+Given a dataset of NBA players performance and salary in 2014, you'll use Python to load the dataset and compute the summary statistics for the `SALARY` field:
 
 - mean
 - median
@@ -16,3 +24,7 @@ Determine the relationship of PER (Player Efficiency Rating) to Salary via a vis
 
 
 NBA 2014 Players Dataset: [http://bit.ly/gtnbads](http://bit.ly/gtnbads)
+
+## Certificate Completion Challenge:
+
+If you've completed the certificate program and want to test your data science skills from ingestion through machine learning, follow the instructions in the file called "Data Analysis of NBA Players Challenge.ipynb"
