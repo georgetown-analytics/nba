@@ -2,9 +2,9 @@
 
 ## Data Sources Students:   
 
-  $ git clone https://github.com/georgetown-analytics/nba.git
-  $ cd nba
-  $ jupyter notebook
+  $ git clone https://github.com/georgetown-analytics/nba.git    
+  $ cd nba    
+  $ jupyter notebook    
 
 In Jupyter, open the file called "NBA Player Statistics Workshop.ipynb"
 
